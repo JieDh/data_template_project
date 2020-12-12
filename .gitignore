@@ -132,3 +132,6 @@ dmypy.json
 .DS_Store
 # PyCharm
 .idea
+
+#Credentials
+data/credentials/credentials.py
