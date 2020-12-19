@@ -38,7 +38,8 @@ Install Python 3.7 and numpy module.
 [IronHack](https://www.ironhack.com/en "IronHack main webpage")
 
 ## Contact info
-:phone +34 745343992
-:e-mail asdhsf@msn.com
+:phone: +34 745343992
+
+:e-mail: asdhsf@msn.com
 
 
