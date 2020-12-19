@@ -13,7 +13,7 @@ Python and Numpy
 ## :wrench: Configuration
 Install Python 3.7 and numpy module. 
 
-### :see_no_evil: Usage
+### :page_facing_up: Usage
     Parameters:
         x: Integer
         y: Integer
